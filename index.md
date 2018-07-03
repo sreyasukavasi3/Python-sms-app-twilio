@@ -1,39 +1,34 @@
-## Python-sms-app-twilio
+# Python-sms-app-twilio
+## SMS text app in python using twilio API
 
-## Welcome to GitHub Pages
+For making a simple text messaging app in python using an API, these would be the 10 simple steps.
 
-You can use the [editor on GitHub](https://github.com/akshaya9/Python-sms-app-twilio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. Create a Github account.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Star this at the top right (optional:wink:)
 
-### Markdown
+3. Create an account on https://www.twilio.com/.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Verify your Phone Number on Twilio https://www.twilio.com/console/phone-numbers/verified.
 
-```markdown
-Syntax highlighted code block
+5. Get Twilio Credentials:
+https://www.twilio.com/console
+ 
+ -Get Account SID
+ 
+ -Get Auth Token(view)
+6. Get Phone Numbers:
 
-# Header 1
-## Header 2
-### Header 3
+-Verified Cell Phone Number You Want To Text
 
-- Bulleted
-- List
+7. Put your twilio credentials and twilio phone numbers in credentials.py
 
-1. Numbered
-2. List
+8. Clone this repository on your desktop.
 
-**Bold** and _Italic_ and `Code` text
+9. Open your terminal and run *pip install twilio*.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshaya9/Python-sms-app-twilio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+10.Then type in the following command:
+   > $Python-sms-app-twilio/send_sms.py
+   
+ Hurray!
+ You have just sent your first text through your Python Text App that uses the Twilio API:bowtie:
