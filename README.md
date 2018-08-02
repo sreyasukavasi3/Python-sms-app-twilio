@@ -17,6 +17,7 @@ https://www.twilio.com/console
  -Get Account SID
  
  -Get Auth Token(view)
+ 
 6. Get Phone Numbers:
 
 -Verified Cell Phone Number You Want To Text
