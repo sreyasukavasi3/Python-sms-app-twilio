@@ -32,4 +32,4 @@ https://www.twilio.com/console
    > $Python-sms-app-twilio/send_sms.py
    
  Hurray!
- You have just sent your first text through your Python Text App that uses the Twilio API:bowtie:
+ You have just sent your first text through your Python Text App that uses the Twilio API:bowtie: 
