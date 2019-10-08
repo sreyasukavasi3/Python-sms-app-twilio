@@ -20,7 +20,7 @@ https://www.twilio.com/console
  
 6. Get Phone Numbers:
 
--Verified Cell Phone Number You Want To Text
+ -Verified Cell Phone Number You Want To Text
 
 7. Put your twilio credentials and twilio phone numbers in credentials.py
 
